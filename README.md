@@ -1,4 +1,5 @@
 # Twilio Flex Emergency Contact Center
+https://www.twilio.com/blog/building-an-emergency-contact-center-with-twilio-flex
 This repository is the source code for the Emergency Contact Center tutorial on the Twilio Blog.
 
 Twilio Flex Plugins allow you to customize the appearance and behavior of [Twilio Flex](https://www.twilio.com/flex). If you want to learn more about the capabilities and how to use the API, check out our [Flex documentation](https://www.twilio.com/docs/flex).
